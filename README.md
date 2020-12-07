@@ -1,5 +1,7 @@
 # black_sky
 
+![black_sky_preview](https://i.imgur.com/1UF2RKp.jpg)
+
 ### 제작기간
 2009_07_24 ~ 2009_09_02
 
@@ -20,3 +22,4 @@ Windows Only
 * Visual Studio 2019 환경으로 migration 시도하였으나 뜻대도 되지 않았고, 다시 프로젝트를 건들 계획은 없으므로 이 프로젝트는 여기서 종료.
 
 ### 플레이 영상
+https://youtu.be/Hps6EmFi4_w
