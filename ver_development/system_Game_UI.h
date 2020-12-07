@@ -1,0 +1,10 @@
+#pragma once
+
+#define MAX_UI 4
+#define MAX_OBJECT_KIND 5
+#define MAX_MUDSTEP 3
+
+typedef enum UiState {BASE = 0, OBJECT, INFO, DESTROY} UISTATE;
+typedef enum ObjectKind {STAR_SPECIAL = 0, STAR_UNDERGROUND, STAR_GROUND, STAR_SKY, NOTHING} OBJECTKIND;
+
+void ShowUI(HDC hdc, SURFACEINFO* sfUI, SURFACEINFO* sfInfo, STARINFO* StarInfo);

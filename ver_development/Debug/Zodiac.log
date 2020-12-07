@@ -1,0 +1,54 @@
+﻿D:\Microsoft Visual Studio\2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(37,5): warning MSB4211: "IntermediateOutputPath" 속성에 처음으로 값이 설정되고 있지만 이미 "D:\Microsoft Visual Studio\2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(36,5)"에서 사용되었습니다.
+D:\Microsoft Visual Studio\2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(340,5): warning MSB4211: "CleanFile" 속성에 처음으로 값이 설정되고 있지만 이미 "D:\Microsoft Visual Studio\2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(36,5)"에서 사용되었습니다.
+cl : 명령줄 warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
+  Timer.cpp
+F:\16~24살 백업\1_게임만들자(완료)\Black Sky\- Zodiac - summer vacation project\Zodiac\stdafx.h(92,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  Text.cpp
+F:\16~24살 백업\1_게임만들자(완료)\Black Sky\- Zodiac - summer vacation project\Zodiac\stdafx.h(92,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  system_Star_Manager.cpp
+F:\16~24살 백업\1_게임만들자(완료)\Black Sky\- Zodiac - summer vacation project\Zodiac\stdafx.h(92,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  system_Main_Menu.cpp
+F:\16~24살 백업\1_게임만들자(완료)\Black Sky\- Zodiac - summer vacation project\Zodiac\stdafx.h(92,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  system_Game_UI.cpp
+F:\16~24살 백업\1_게임만들자(완료)\Black Sky\- Zodiac - summer vacation project\Zodiac\stdafx.h(92,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  system_Game_Stage.cpp
+F:\16~24살 백업\1_게임만들자(완료)\Black Sky\- Zodiac - summer vacation project\Zodiac\stdafx.h(92,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  system_Game_Play.cpp
+F:\16~24살 백업\1_게임만들자(완료)\Black Sky\- Zodiac - summer vacation project\Zodiac\stdafx.h(92,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  system_Game_Event.cpp
+F:\16~24살 백업\1_게임만들자(완료)\Black Sky\- Zodiac - summer vacation project\Zodiac\stdafx.h(92,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  Surface.cpp
+F:\16~24살 백업\1_게임만들자(완료)\Black Sky\- Zodiac - summer vacation project\Zodiac\stdafx.h(92,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  Sound.cpp
+F:\16~24살 백업\1_게임만들자(완료)\Black Sky\- Zodiac - summer vacation project\Zodiac\stdafx.h(92,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  SLinkedList.cpp
+F:\16~24살 백업\1_게임만들자(완료)\Black Sky\- Zodiac - summer vacation project\Zodiac\stdafx.h(92,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  SDL_Base.cpp
+F:\16~24살 백업\1_게임만들자(완료)\Black Sky\- Zodiac - summer vacation project\Zodiac\stdafx.h(92,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  Matrix.cpp
+F:\16~24살 백업\1_게임만들자(완료)\Black Sky\- Zodiac - summer vacation project\Zodiac\stdafx.h(92,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  MainProc.cpp
+F:\16~24살 백업\1_게임만들자(완료)\Black Sky\- Zodiac - summer vacation project\Zodiac\stdafx.h(92,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  Main.cpp
+F:\16~24살 백업\1_게임만들자(완료)\Black Sky\- Zodiac - summer vacation project\Zodiac\stdafx.h(92,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  GraphicEngine.cpp
+F:\16~24살 백업\1_게임만들자(완료)\Black Sky\- Zodiac - summer vacation project\Zodiac\stdafx.h(92,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  GOBJPrepare.cpp
+F:\16~24살 백업\1_게임만들자(완료)\Black Sky\- Zodiac - summer vacation project\Zodiac\stdafx.h(92,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  GOBJObject.cpp
+F:\16~24살 백업\1_게임만들자(완료)\Black Sky\- Zodiac - summer vacation project\Zodiac\stdafx.h(92,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  GOBJFocus.cpp
+F:\16~24살 백업\1_게임만들자(완료)\Black Sky\- Zodiac - summer vacation project\Zodiac\stdafx.h(92,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  GObject.cpp
+F:\16~24살 백업\1_게임만들자(완료)\Black Sky\- Zodiac - summer vacation project\Zodiac\stdafx.h(92,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  effect.cpp
+F:\16~24살 백업\1_게임만들자(완료)\Black Sky\- Zodiac - summer vacation project\Zodiac\stdafx.h(92,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  CollisionCheck.cpp
+F:\16~24살 백업\1_게임만들자(완료)\Black Sky\- Zodiac - summer vacation project\Zodiac\stdafx.h(92,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  Animation.cpp
+F:\16~24살 백업\1_게임만들자(완료)\Black Sky\- Zodiac - summer vacation project\Zodiac\stdafx.h(92,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  AnimatioinFile.cpp
+F:\16~24살 백업\1_게임만들자(완료)\Black Sky\- Zodiac - summer vacation project\Zodiac\stdafx.h(92,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  코드를 생성하고 있습니다...

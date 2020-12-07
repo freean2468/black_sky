@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="충돌체크">
+      <UniqueIdentifier>{438d7cb7-33bc-46de-9955-13f74291fa22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="시스템">
+      <UniqueIdentifier>{3fb3bab5-4a6c-4b4a-9883-168b8b9b110b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="오브젝트">
+      <UniqueIdentifier>{339521d6-0167-47aa-b34c-c81ec0343ed7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="그래픽">
+      <UniqueIdentifier>{5ebf79e0-2fa5-497e-9a7f-03cb6080dda8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="그래픽\엔진">
+      <UniqueIdentifier>{fa7852d0-8486-44a6-81dc-ce45fdcc3c98}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="그래픽\효과">
+      <UniqueIdentifier>{38c1d6ba-4c39-4cd5-8ddf-f3dc9f45ac17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="그래픽\표면 관리">
+      <UniqueIdentifier>{a6ced5a5-4cf9-4b32-8d2f-4f8f7fa70b16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="애니메이션">
+      <UniqueIdentifier>{c0b9656c-41ec-43a2-99e5-9c688ccced8c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="타이머">
+      <UniqueIdentifier>{aa8bfb76-108d-44ae-8324-258df2c0ae94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="알고리즘">
+      <UniqueIdentifier>{7aceb6a2-ccc7-4bd6-b709-1f123183dfc9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스">
+      <UniqueIdentifier>{4106470a-ebf2-45b2-a798-c7ee15383fb1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="윈도우">
+      <UniqueIdentifier>{3f579c4e-3201-46b2-b648-ba321ea52afd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="메시지루프">
+      <UniqueIdentifier>{80454d78-b90b-4ef8-8fdf-05f776e1151f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SDL">
+      <UniqueIdentifier>{ffd4aa3d-8583-46d4-9654-2485a4ff8baa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="사운드">
+      <UniqueIdentifier>{60486677-3d80-4d69-8fe0-9bb8dc9a72f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="텍스트">
+      <UniqueIdentifier>{5eb77e5b-7264-4577-8beb-6e4698910e33}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CollisionCheck.cpp">
+      <Filter>충돌체크</Filter>
+    </ClCompile>
+    <ClCompile Include="system_Game_Event.cpp">
+      <Filter>시스템</Filter>
+    </ClCompile>
+    <ClCompile Include="system_Game_Play.cpp">
+      <Filter>시스템</Filter>
+    </ClCompile>
+    <ClCompile Include="system_Game_Stage.cpp">
+      <Filter>시스템</Filter>
+    </ClCompile>
+    <ClCompile Include="system_Game_UI.cpp">
+      <Filter>시스템</Filter>
+    </ClCompile>
+    <ClCompile Include="system_Main_Menu.cpp">
+      <Filter>시스템</Filter>
+    </ClCompile>
+    <ClCompile Include="system_Star_Manager.cpp">
+      <Filter>시스템</Filter>
+    </ClCompile>
+    <ClCompile Include="GObject.cpp">
+      <Filter>오브젝트</Filter>
+    </ClCompile>
+    <ClCompile Include="GOBJFocus.cpp">
+      <Filter>오브젝트</Filter>
+    </ClCompile>
+    <ClCompile Include="GOBJObject.cpp">
+      <Filter>오브젝트</Filter>
+    </ClCompile>
+    <ClCompile Include="GOBJPrepare.cpp">
+      <Filter>오브젝트</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphicEngine.cpp">
+      <Filter>그래픽\엔진</Filter>
+    </ClCompile>
+    <ClCompile Include="effect.cpp">
+      <Filter>그래픽\효과</Filter>
+    </ClCompile>
+    <ClCompile Include="Surface.cpp">
+      <Filter>그래픽\표면 관리</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimatioinFile.cpp">
+      <Filter>애니메이션</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>애니메이션</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>타이머</Filter>
+    </ClCompile>
+    <ClCompile Include="Matrix.cpp">
+      <Filter>알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="SLinkedList.cpp">
+      <Filter>알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>윈도우</Filter>
+    </ClCompile>
+    <ClCompile Include="MainProc.cpp">
+      <Filter>메시지루프</Filter>
+    </ClCompile>
+    <ClCompile Include="SDL_Base.cpp">
+      <Filter>SDL</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound.cpp">
+      <Filter>사운드</Filter>
+    </ClCompile>
+    <ClCompile Include="Text.cpp">
+      <Filter>텍스트</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CollisionCheck.h">
+      <Filter>충돌체크</Filter>
+    </ClInclude>
+    <ClInclude Include="EyeCatch.h">
+      <Filter>시스템</Filter>
+    </ClInclude>
+    <ClInclude Include="Info_DiseaseID.h">
+      <Filter>시스템</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>시스템</Filter>
+    </ClInclude>
+    <ClInclude Include="system_Game_Event.h">
+      <Filter>시스템</Filter>
+    </ClInclude>
+    <ClInclude Include="system_Game_Play.h">
+      <Filter>시스템</Filter>
+    </ClInclude>
+    <ClInclude Include="system_Game_Stage.h">
+      <Filter>시스템</Filter>
+    </ClInclude>
+    <ClInclude Include="system_Game_UI.h">
+      <Filter>시스템</Filter>
+    </ClInclude>
+    <ClInclude Include="system_Main_Menu.h">
+      <Filter>시스템</Filter>
+    </ClInclude>
+    <ClInclude Include="system_Star_Manager.h">
+      <Filter>시스템</Filter>
+    </ClInclude>
+    <ClInclude Include="GObject.h">
+      <Filter>오브젝트</Filter>
+    </ClInclude>
+    <ClInclude Include="GOBJFocus.h">
+      <Filter>오브젝트</Filter>
+    </ClInclude>
+    <ClInclude Include="GOBJObject.h">
+      <Filter>오브젝트</Filter>
+    </ClInclude>
+    <ClInclude Include="GOBJPrepare.h">
+      <Filter>오브젝트</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectAttribute.h">
+      <Filter>오브젝트</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectID.h">
+      <Filter>오브젝트</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphicEngine.h">
+      <Filter>그래픽\엔진</Filter>
+    </ClInclude>
+    <ClInclude Include="effect.h">
+      <Filter>그래픽\효과</Filter>
+    </ClInclude>
+    <ClInclude Include="Surface.h">
+      <Filter>그래픽\표면 관리</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation.h">
+      <Filter>애니메이션</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimationFile.h">
+      <Filter>애니메이션</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimationInfo.h">
+      <Filter>애니메이션</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>타이머</Filter>
+    </ClInclude>
+    <ClInclude Include="TypeDef.h">
+      <Filter>타이머</Filter>
+    </ClInclude>
+    <ClInclude Include="Matrix.h">
+      <Filter>알고리즘</Filter>
+    </ClInclude>
+    <ClInclude Include="SLinkedList.h">
+      <Filter>알고리즘</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>리소스</Filter>
+    </ClInclude>
+    <ClInclude Include="resource1.h">
+      <Filter>리소스</Filter>
+    </ClInclude>
+    <ClInclude Include="Main.h">
+      <Filter>윈도우</Filter>
+    </ClInclude>
+    <ClInclude Include="MainProc.h">
+      <Filter>메시지루프</Filter>
+    </ClInclude>
+    <ClInclude Include="SDL_Base.h">
+      <Filter>SDL</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound.h">
+      <Filter>사운드</Filter>
+    </ClInclude>
+    <ClInclude Include="Text.h">
+      <Filter>텍스트</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="bitmap1.bmp">
+      <Filter>리소스</Filter>
+    </Image>
+    <Image Include="icon1.ico">
+      <Filter>리소스</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="cursor1.cur">
+      <Filter>리소스</Filter>
+    </None>
+    <None Include="cursor2.cur">
+      <Filter>리소스</Filter>
+    </None>
+    <None Include="cursor3.cur">
+      <Filter>리소스</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Zodiac.rc">
+      <Filter>리소스</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
