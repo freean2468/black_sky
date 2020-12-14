@@ -1,4 +1,4 @@
-# black_sky
+# black sky (Indiegame)
 
 ![black_sky_preview](https://i.imgur.com/1UF2RKp.jpg)
 
