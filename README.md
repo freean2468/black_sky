@@ -1,4 +1,5 @@
-# black sky (Indiegame)
+# black sky 
+C++과 WinAPI를 사용해 개발된 인디게임
 
 ![black_sky_preview](https://i.imgur.com/1UF2RKp.jpg)
 
